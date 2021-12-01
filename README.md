@@ -1,3 +1,3 @@
 # Segunda entrega - Instrumentos Ópticos
-Juan Camilo Romero
+Juan Camilo Romero,
 Arturo Gaviria
